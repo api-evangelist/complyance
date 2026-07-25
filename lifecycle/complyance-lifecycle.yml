@@ -1,0 +1,8 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.complyance.com/
+status_page: https://status.complyance.com/
+notes: >-
+  Complyance publishes a public status page at status.complyance.com. No public
+  versioning policy, deprecation policy, or SLA document was found on the public
+  surface (no developer/API documentation is published as of this pass).

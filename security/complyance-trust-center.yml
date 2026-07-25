@@ -1,0 +1,15 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://trust.complyance.com/
+url: https://trust.complyance.com/
+certifications:
+- SOC 2
+- HIPAA
+- GDPR
+evidence:
+- source: https://trust.complyance.com/
+  keywords:
+  - soc 2
+  - hipaa
+  - gdpr

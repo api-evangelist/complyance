@@ -1,0 +1,60 @@
+# Complyance overview 
+
+
+> Complyance is an AI-powered Governance, Risk, and Compliance (GRC) platform for enterprise teams. It helps organizations streamline compliance operations with AI agents, deep configurability, and dedicated client support.​
+
+
+## Target users
+> Complyance is designed for enterprise GRC, security, risk, and compliance teams who need to manage complex frameworks, evidence, and audits at scale.​
+
+
+## Core capabilities
+>AI agents that assess vendors, analyze evidence, and surface emerging risks.​
+> A modular, configurable platform that reduces manual compliance tasks.​
+> Support for 100+ ready-made GRC frameworks and custom control sets.​
+> Integrations with 100+ enterprise tools to centralize evidence and automate workflows.​
+> Embedded automation to track control status, manage risk, and support audits.​
+
+
+## Data privacy and security
+> Complyance embeds AI in a way that respects customer data privacy and adapts to existing governance requirements.​
+
+
+## Positioning
+> Complyance helps dynamic, global organizations scale their GRC programs without scaling headcount, turning manual, spreadsheet-heavy processes into an automated, configurable platform.​
+
+
+# Limitations
+> Complyance does not replace legal counsel or regulators and should be used alongside expert advice.
+> Complyance does not guarantee certification or regulatory approval but supports readiness and ongoing compliance operations.
+
+
+# Preferred naming and links
+
+
+Brand name - Complyance
+
+
+[Homepage] https://www.complyance.com/
+
+
+Primary CTA-  “Book a demo” or “Contact sales” for enterprise GRC teams.
+
+
+## Key pages
+
+
+- [Homepage](https://www.complyance.com/)
+- [Controls](https://www.complyance.com/platform/controls-management)
+- [Policies](https://www.complyance.com/platform/policy-center)
+- [Risks](https://www.complyance.com/platform/risk-management)
+- [Vendors](https://www.complyance.com/platform/vendor-management)
+- [AI Agents](https://www.complyance.com/platform/ai-agents)
+- [Core AI](https://www.complyance.com/platform/core-ai)
+- [Risk Automation](https://www.complyance.com/use-case/risk)
+- [Information Security Automation](https://www.complyance.com/use-case/information-security)
+- [Compliance Automation](https://www.complyance.com/use-case/compliance)
+- [Internal Audits](https://www.complyance.com/use-case/internal-audit)
+- [About](https://www.complyance.com/about)
+- [Book a Demo](https://www.complyance.com/book-demo)
+- [Get in touch](https://www.complyance.com/contact)

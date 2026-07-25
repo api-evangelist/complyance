@@ -1,9 +1,27 @@
 aid: complyance
 name: Complyance
-description: 'Complyance is a company surfaced as a portfolio company of gv, hv-capital, speedinvest and
-  added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Complyance is an AI-powered Governance, Risk, and Compliance (GRC) platform for
+  enterprise security, risk, and compliance teams. It automates manual GRC workflows
+  across controls management, policy management, risk management, third-party and
+  vendor risk management (TPRM), and customer trust, using purpose-built AI agents
+  for evidence review, control advice, policy drafting, and vendor questionnaire and
+  risk scoring. Complyance ships 100+ ready-made frameworks (including SOC 2, ISO
+  27001, HIPAA, PCI DSS, NIST CSF 2.0, CMMC, and GDPR) plus 100+ enterprise
+  integrations to centralize evidence and support audits at scale.
 url: https://raw.githubusercontent.com/api-evangelist/complyance/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/68c43e81a8c7e3e8a61c4380/691103477d17c722a455034d_og_image.avif
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -14,10 +32,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
-- Ai
+- AI
+- Governance Risk Compliance
+- GRC
+- Compliance
+- Risk Management
+- Security
+- Vendor Management
+- Audit
+- Policy Management
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +53,32 @@ maintainers:
 common:
 - type: Website
   url: https://www.complyance.com
+- type: Blog
+  url: https://www.complyance.com/blog
+- type: GitHubOrganization
+  url: https://github.com/complyance
+- type: SignUp
+  url: https://app.complyance.com/signup
+- type: Login
+  url: https://app.complyance.com/login
+- type: Support
+  url: https://www.complyance.com/contact
+- type: TermsOfService
+  url: https://www.complyance.com/terms
+- type: StatusPage
+  url: https://status.complyance.com/
+- type: TrustCenter
+  url: security/complyance-trust-center.yml
+- type: Compliance
+  url: https://trust.complyance.com/
+- type: DomainSecurity
+  url: security/complyance-domain-security.yml
+- type: Lifecycle
+  url: lifecycle/complyance-lifecycle.yml
+- type: LLMsTxt
+  url: llms/complyance-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
